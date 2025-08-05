@@ -1,6 +1,7 @@
 {
   "name": "vendlit",
   "version": "1.0.0",
+  "type": "module",
   "main": "schema.js",
   "scripts": {
     "start": "nodemon user.js"
